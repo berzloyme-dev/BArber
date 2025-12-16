@@ -10,7 +10,7 @@ from aiogram.fsm.state import State, StatesGroup
 
 # ===== CONFIG =====
 BOT_TOKEN = "8578925778:AAGmJhQphkHUxwND3TF_EeYgioywoERe8U4"  # o'zingizniki bilan almashtiring
-ADMIN_ID = 958705445  # o'zgartiring
+ADMIN_ID = 8130394571  # o'zgartiring
 WORK_START_HOUR = 9
 WORK_END_HOUR = 23
 SLOT_MINUTES = 40
